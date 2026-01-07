@@ -1,10 +1,5 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
@@ -16,6 +11,11 @@ var addressPoints = [
   ],
   [
     "Two RELHIC candidates in the FEASTS survey<br />KIAA, Peking university; Beijing, China",
+    40.190632,
+    116.412144
+  ],
+  [
+    "Pathways to dark galaxies<br />W.'s group meeting; Beijing, China",
     40.190632,
     116.412144
   ]
