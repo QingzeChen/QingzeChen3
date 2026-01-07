@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Two RELHIC candidates in FAST observations<br />\u7b2c 27 \u5c4a\u90ed\u5b88\u656c\u5b66\u672f\u7814\u8ba8\u4f1a\u66a8 2025 \u5e74\u661f\u7cfb\u5b87\u5b99\u5b66\u524d\u6cbf\u7814\u8ba8\u4f1a; Changsha, China",
+    28.1987538,
+    112.9708685
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
