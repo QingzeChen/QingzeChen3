@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a PhD candidate in astrophysics recently working in radio astronomy and data analysis, with a primary focus on the detection and characterization of faint extragalactic HI signals. My research interests lie at the intersection of observational radio astronomy, signal processing, and machine learning, particularly in searching for dark galaxies from HI observation data.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I have extensive experience in processing and analyzing HI radio data, including FITS data cubes, moment map construction, spectral measurements, and source parameter extraction using tools such as SoFiA, and Python-based scientific libraries (e.g., Astropy, SpectralCube). A significant part of my recent work involves applying supervised machine learning methods—such as Random Forest classifiers—for source classification, feature selection, and performance evaluation in HI source catalogs.
+
+My research also includes the study of low-mass and diffuse systems, such as dark galaxy candidates, and the use of multi-resolution or auxiliary observations to improve source validation. I am also interested in reproducible data analysis workflows, and scalable methods suitable for next-generation radio surveys.
+
+This website documents my research projects, codes, notes, and academic activities.
 
 A data-driven personal website
 ======
