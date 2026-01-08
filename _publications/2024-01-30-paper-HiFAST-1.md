@@ -2,7 +2,7 @@
 title: "HiFAST: an HI data calibration and imaging pipeline for FAST"
 collection: publications
 category: conferences
-permalink: /publication/2024-01-30-paper-title-number-4
+permalink: /publication/2024-01-30-paper-HiFAST-1
 excerpt: 'We present HiFAST (https://hifast.readthedocs.io), a dedicated, modular, and self-contained calibration and imaging pipeline for processing the Hi data of FAST.'
 date: 2024-01-30
 venue: 'Science China Physics, Mechanics & Astronomy'
